@@ -11,11 +11,9 @@ By implementing an effective spam detection system:
 - Businesses can protect sensitive information, reduce the risk of security breaches, and maintain a clean communication channel.
 - Individuals can enjoy a clutter-free inbox, saving time and avoiding potential scams.
 
-This project aims to provide a robust, easy-to-integrate solution that can be customized for different environments, helping users to stay safe and efficient.
-
 ## Project Overview
 
-This project focuses on building a spam detection system using the Naive Bayes algorithm in Python. The system is designed to classify emails as either "spam" or "ham" (non-spam).
+This project aims to create a practical and easy-to-integrate spam detection system that can be customized for different needs. Using the Naive Bayes algorithm and Python, the system will sort emails into "spam" or "ham" (non-spam), helping users stay safe and manage their inboxes more effectively.
 
 ## Visual Examples
 
