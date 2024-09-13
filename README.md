@@ -4,12 +4,7 @@
 
 ## Business Use Case
 
-In today's digital age, businesses and individuals alike face the constant threat of spam emails, which can range from annoying advertisements to dangerous phishing attempts. Spam not only clutters inboxes but can also lead to significant financial losses and data breaches.
-
-By implementing an effective spam detection system:
-
-- Businesses can protect sensitive information, reduce the risk of security breaches, and maintain a clean communication channel.
-- Individuals can enjoy a clutter-free inbox, saving time and avoiding potential scams.
+Spam emails pose a constant threat to both individuals and businesses, from cluttering inboxes to enabling phishing attacks. Implementing a robust spam detection system not only ensures cleaner, more secure communication but also protects against potential security breaches and financial losses. This project highlights how a well-designed system can safeguard businesses and individuals from the growing menace of spam.
 
 ## Project Overview
 
